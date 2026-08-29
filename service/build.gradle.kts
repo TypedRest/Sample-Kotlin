@@ -28,7 +28,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
-    implementation("org.xerial:sqlite-jdbc:3.46.1.3")
+    implementation("org.xerial:sqlite-jdbc:3.53.4.0")
     implementation("org.hibernate.orm:hibernate-community-dialects")
     implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.7.0")
 
